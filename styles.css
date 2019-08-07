@@ -25,3 +25,14 @@
   height: 200px;
   transform:rotate(45deg);
 }
+.cf4{
+  position: relative;
+  left: 500px;
+  top: -50px;
+  display: inline-block;
+  margin:50px;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  transform:rotate(45deg);
+}
