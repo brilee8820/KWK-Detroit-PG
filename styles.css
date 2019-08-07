@@ -1,4 +1,27 @@
-.coffee{
-  left: -.25em;
-  transform-origin: 100% 0;
+.cf1{
+  width: 250px;
+  height: 230px;
+  transform: rotate(-45deg) translateY(-74px);
+}
+.cf2{
+  position: relative;
+  top: 100px;
+  right: 100px;
+  display: inline-block;
+  margin:50px;
+  overflow: hidden;
+  width:200px;
+  height:200px;
+  transform:rotate(45deg);
+}
+.cf3{
+  position: relative;
+  right: 440px;
+  top: -180px;
+  display: inline-block;
+  margin:50px;
+  overflow: hidden;
+  width: 200px;
+  height: 200px;
+  transform:rotate(45deg);
 }
